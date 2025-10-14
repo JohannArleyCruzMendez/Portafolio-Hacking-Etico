@@ -14,7 +14,7 @@
 
 Aquí encontrarás cada una de las prácticas realizadas, organizadas según el ciclo de vida de una prueba de penetración. Cada laboratorio cuenta con su propio `README.md` detallado con el proceso, los comandos y las conclusiones.
 
-* **[📁 Laboratorio 01: Reconocimiento y OSINT](./Laboratorio 01: Reconocimiento y OSINT/)**
+* **[📁 Laboratorio 01: Reconocimiento y OSINT](./01-Reconocimiento-y-OSINT/)**
     * *Técnicas de recolección de información pasiva con SpiderFoot, Recon-ng y herramientas OSINT.*
 
 

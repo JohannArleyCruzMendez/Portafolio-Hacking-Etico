@@ -1,17 +1,21 @@
+<div align="center">
+
+
+
 # Bitácora de Hacking Ético | Portafolio de Prácticas
 
-Este repositorio es mi portafolio práctico, donde documento las metodologías, comandos y hallazgos de cada laboratorio del curso de **Hacking Ético de Cisco**. El objetivo es demostrar de forma aplicada mis habilidades en áreas clave de la ciberseguridad ofensiva.
+</div>
+
+> Este repositorio es mi portafolio práctico, donde documento las metodologías, comandos y hallazgos de cada laboratorio del curso de **Hacking Ético de Cisco**. El objetivo es demostrar de forma aplicada mis habilidades en áreas clave de la ciberseguridad ofensiva.
 
 ---
 
 ## 🗺️ Índice de Laboratorios
 
-Aquí encontrarás cada una de las prácticas realizadas, organizadas según el ciclo de vida de una prueba de penetración. Cada laboratorio cuenta con su propio `README.md` detallado con el proceso, los comandos y las conclusiones.
+Aquí encontrarás cada uno de los módulos del curso, organizados según el ciclo de vida de una prueba de penetración. Cada módulo tiene su propia carpeta con un índice de las prácticas realizadas.
 
-* **[📁 Laboratorio 01: Reconocimiento y OSINT](./01-Reconocimiento-y-OSINT/)**
-    * *Técnicas de recolección de información pasiva con SpiderFoot y Recon-ng.*
-    * ***[📄 Sub-Laboratorio 1.1: Reconocimiento DNS y Whois](./01-Reconocimiento-y-OSINT/README.md)**
-        * *Uso de `nslookup`, `dig` y `whois` para consultas manuales al DNS.*
+* **[📁 Módulo 01: Reconocimiento Pasivo](./01-Reconocimiento-Pasivo/)**
+    * *Este módulo cubre la recolección de información pasiva (OSINT) sin interactuar directamente con los sistemas del objetivo. Incluye laboratorios sobre herramientas OSINT, DNS, Shodan y más.*
 
 ---
 
@@ -19,7 +23,7 @@ Aquí encontrarás cada una de las prácticas realizadas, organizadas según el 
 
 A través de estos laboratorios, demuestro conocimiento y aplicación práctica en:
 
-* **🕵️ Reconocimiento y OSINT:** Uso de `SpiderFoot`, `Recon-ng`, `nslookup`, `dig` y `whois` para mapear la huella digital de un objetivo.
+* **🕵️ Reconocimiento y OSINT:** Uso de `SpiderFoot`, `Recon-ng`, `nslookup`, `dig`, `whois`, `Shodan` y técnicas de búsqueda avanzada para mapear la huella digital de un objetivo.
 
 ---
 
@@ -29,3 +33,9 @@ Todas las actividades documentadas en este repositorio se han realizado en **ent
 
 ---
 
+## 📞 Contacto
+
+¡Conectemos! Siempre estoy abierto a discutir sobre ciberseguridad y nuevos proyectos.
+
+-   **LinkedIn:** `[Tu Nombre en LinkedIn](https://www.linkedin.com/in/tu-usuario/)`
+-   **GitHub:** `[Tu Usuario de GitHub](https://github.com/tu-usuario)`

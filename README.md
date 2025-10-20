@@ -10,7 +10,7 @@ Aquí encontrarás cada una de las prácticas realizadas, organizadas según el 
 
 * **[📁 Laboratorio 01: Reconocimiento y OSINT](./01-Reconocimiento-y-OSINT/)**
     * *Técnicas de recolección de información pasiva con SpiderFoot y Recon-ng.*
-    * **[📄 Sub-Laboratorio 1.1: Reconocimiento DNS y Whois](./01-Reconocimiento-y-OSINT)**
+    * ***[📄 Sub-Laboratorio 1.1: Reconocimiento DNS y Whois](./01-Reconocimiento-y-OSINT/README.md)**
         * *Uso de `nslookup`, `dig` y `whois` para consultas manuales al DNS.*
 
 ---

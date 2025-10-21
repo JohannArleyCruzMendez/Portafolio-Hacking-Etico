@@ -9,7 +9,7 @@ Este laboratorio se centra en el uso de herramientas de línea de comandos funda
 * `dig`
 * `host`
 * `whois`
-* `grep`
+
 
 ---
 ## 🔬 Metodología y Comandos
@@ -126,3 +126,4 @@ Se exploró el comando `host` como una alternativa rápida y de fácil lectura p
 * **Descubrimiento de Dispositivos:** Una búsqueda inversa con `dig -x` reveló un nombre de host (`hsrp-72-163-1-1.cisco.com`), identificando un **router de borde** que utiliza el protocolo HSRP de Cisco, un hallazgo de infraestructura de alto valor.
 
 **Conclusión:** Este laboratorio demostró que con un puñado de comandos básicos es posible desentrañar una cantidad significativa de información sobre la arquitectura, los proveedores y las políticas de seguridad de una organización.
+

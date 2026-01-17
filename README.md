@@ -16,6 +16,8 @@ Aquí encontrarás cada uno de los módulos del curso, organizados según el cic
 
 * **[📁 Módulo 01: Reconocimiento Pasivo](./01-Reconocimiento-Pasivo/)**
     * *Este módulo cubre la recolección de información pasiva (OSINT) sin interactuar directamente con los sistemas del objetivo. Incluye laboratorios sobre herramientas OSINT, DNS, Shodan y más.*
+* 📂 **Módulo 02: Reconocimiento Activo**
+    * *En este módulo pasamos de la observación a la interacción directa. Se documentan prácticas exhaustivas de escaneo de redes, identificación de hosts vivos, detección de sistemas operativos y enumeración de servicios (FTP, SMB) utilizando Nmap y sus scripts (NSE), analizando las respuestas de los protocolos TCP/IP.*
 
 ---
 
@@ -24,6 +26,7 @@ Aquí encontrarás cada uno de los módulos del curso, organizados según el cic
 A través de estos laboratorios, demuestro conocimiento y aplicación práctica en:
 
 * **🕵️ Reconocimiento y OSINT:** Uso de `SpiderFoot`, `Recon-ng`, `nslookup`, `dig`, `whois`, `Shodan` y técnicas de búsqueda avanzada para mapear la huella digital de un objetivo.
+* * 📡 **Escaneo de Vulnerabilidades y Enumeración:** Dominio de **Nmap** para perfilado de red (`-sS`, `-sT`, `-O`, `-sV`). Capacidad para detectar configuraciones inseguras (Anonymous FTP, SMB Shares con permisos de escritura) y uso de scripts **NSE** para enumeración de usuarios y recursos compartidos. Interpretación de tráfico de red para distinguir entre puertos abiertos, cerrados y filtrados.
 
 ---
 

@@ -16,7 +16,7 @@ Aquí encontrarás cada uno de los módulos del curso, organizados según el cic
 
 * **[📁 Módulo 01: Reconocimiento Pasivo](./01-Reconocimiento-Pasivo/)**
     * *Este módulo cubre la recolección de información pasiva (OSINT) sin interactuar directamente con los sistemas del objetivo. Incluye laboratorios sobre herramientas OSINT, DNS, Shodan y más.*
-* 📂 **Módulo 02: Reconocimiento Activo**
+* **[📂 Módulo 02: Reconocimiento Activo](./02-Reconocimiento-Activo/)**
     * *En este módulo pasamos de la observación a la interacción directa. Se documentan prácticas exhaustivas de escaneo de redes, identificación de hosts vivos, detección de sistemas operativos y enumeración de servicios (FTP, SMB) utilizando Nmap y sus scripts (NSE), analizando las respuestas de los protocolos TCP/IP.*
 
 ---

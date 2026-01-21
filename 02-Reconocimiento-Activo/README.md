@@ -10,8 +10,7 @@ A continuación se listan las prácticas detalladas realizadas en este módulo. 
 
 * 📄 **[2.1: Enumeración con Nmap](./2.1-Enumeracion-Nmap.md)**
     * *Escaneo de hosts, detección de SO, versiones de servicios y descubrimiento de vulnerabilidades en FTP y SMB.*
-* 📄 **2.2: Inspección de paquetes y escuchas** *(Pendiente)*
-* 📄 **2.3: Elaboración de paquetes con Scapy** *(Pendiente)*
+* 📄 **2.2: Elaboración de paquetes con Scapy** *(Pendiente)*
 * 📄 **2.4: Rastreo de redes con Wireshark** *(Pendiente)*
 
 ---

@@ -31,13 +31,13 @@ A través de estos laboratorios, demuestro conocimiento y aplicación práctica 
 
 * * 🦈 Análisis Forense de Red y Sniffing: Captura y análisis profundo de tráfico (Deep Packet Inspection) utilizando Wireshark y tcpdump. Habilidad para diseccionar flujos de comunicación para:
 
-Identificar riesgos de privacidad en consultas DNS y resolución de nombres.
+     * *Identificar riesgos de privacidad en consultas DNS y resolución de nombres.
 
-Interceptar credenciales en texto plano en protocolos no seguros (HTTP POST).
+     * *Interceptar credenciales en texto plano en protocolos no seguros (HTTP POST).
 
-Extraer tokens de sesión (Cookies) para demostrar vulnerabilidades de Session Hijacking.
+     * *Extraer tokens de sesión (Cookies) para demostrar vulnerabilidades de Session Hijacking.
 
-Correlacionar direcciones MAC e IP para identificar dispositivos en la red local.
+     * *Correlacionar direcciones MAC e IP para identificar dispositivos en la red local.
     
 
 ---

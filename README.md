@@ -27,9 +27,9 @@ A través de estos laboratorios, demuestro conocimiento y aplicación práctica 
 
 * **🕵️ Reconocimiento y OSINT:** Uso de `SpiderFoot`, `Recon-ng`, `nslookup`, `dig`, `whois`, `Shodan` y técnicas de búsqueda avanzada para mapear la huella digital de un objetivo.
 * * 📡 **Escaneo de Vulnerabilidades y Enumeración:** Dominio de **Nmap** para perfilado de red (`-sS`, `-sT`, `-O`, `-sV`). Capacidad para detectar configuraciones inseguras (Anonymous FTP, SMB Shares con permisos de escritura) y uso de scripts **NSE** para enumeración de usuarios y recursos compartidos. Interpretación de tráfico de red para distinguir entre puertos abiertos, cerrados y filtrados.
- 📦 Manipulación y Artesanía de Paquetes (Packet Crafting): Uso de Scapy (Python) para la construcción manual y personalizada de paquetes TCP/IP. Capacidad para inyectar payloads arbitrarios en protocolos estándar (ICMP/TCP), realizar escaneos manuales interpretando flags del handshake (SYN, SYN-ACK, RST) y comprender la mecánica de ataques de suplantación (IP Spoofing) y Tunneling.
+* * 📦 Manipulación y Artesanía de Paquetes (Packet Crafting): Uso de Scapy (Python) para la construcción manual y personalizada de paquetes TCP/IP. Capacidad para inyectar payloads arbitrarios en protocolos estándar (ICMP/TCP), realizar escaneos manuales interpretando flags del handshake (SYN, SYN-ACK, RST) y comprender la mecánica de ataques de suplantación (IP Spoofing) y Tunneling.
 
-🦈 Análisis Forense de Red y Sniffing: Captura y análisis profundo de tráfico (Deep Packet Inspection) utilizando Wireshark y tcpdump. Habilidad para diseccionar flujos de comunicación para:
+* * 🦈 Análisis Forense de Red y Sniffing: Captura y análisis profundo de tráfico (Deep Packet Inspection) utilizando Wireshark y tcpdump. Habilidad para diseccionar flujos de comunicación para:
 
 Identificar riesgos de privacidad en consultas DNS y resolución de nombres.
 
